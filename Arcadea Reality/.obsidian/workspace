@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "8bd60f7c60da20b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b39153d4ec259998",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dev Blog/Action Plan/002 - 30 April 22.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "546a15c87492f66d",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc47b88f826342d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311d960e716d0087",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6a80025849743a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e382c77af1b1f5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8843a6ce97937c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "954dc117fefcf649",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dev Blog/Action Plan/002 - 30 April 22.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b39153d4ec259998",
+  "lastOpenFiles": [
+    "Dev Blog/Action Plan/002 - 30 April 22.md",
+    "Dev Blog/Action Plan/001 - 29 April 22.md"
+  ]
+}
