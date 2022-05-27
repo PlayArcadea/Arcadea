@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dev Blog/Action Plan/002 - 30 April 22.md",
+            "file": "Dev Blog/Action Plan/001 - 29 April 22.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dev Blog/Action Plan/002 - 30 April 22.md",
+                "file": "Dev Blog/Action Plan/001 - 29 April 22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,15 @@
   },
   "active": "b39153d4ec259998",
   "lastOpenFiles": [
-    "Dev Blog/Action Plan/002 - 30 April 22.md",
-    "Dev Blog/Action Plan/001 - 29 April 22.md"
+    "Dev Blog/Action Plan/001 - 29 April 22.md",
+    "Dev Blog/Documentation/Design Bible/Wild Ideas/Through the Dome Curtain.md",
+    "Dev Blog/Documentation/Design Bible/Last Astra/Design document.md",
+    "Dev Blog/Action Plan/004 - 13 May 2022.md",
+    "Dev Blog/Documentation/Design Bible/Notes/001 - Fivver.md",
+    "Dev Blog/Documentation/Asset QOL List.md",
+    "Dev Blog/Documentation/Character design document.md",
+    "Dev Blog/Documentation/Game design document.md",
+    "Dev Blog/Documentation/Narrative design document.md",
+    "Dev Blog/Documentation/Web design document.md"
   ]
 }
